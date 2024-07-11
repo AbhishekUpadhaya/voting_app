@@ -19,7 +19,7 @@ Installation
 Clone the repository:
 
 
-git clone https://github.com/
+git clone https://github.com/AbhishekUpadhaya/voting_app
 
 
 API Endpoints
